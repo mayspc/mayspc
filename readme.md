@@ -26,5 +26,5 @@
       .   * .                    +  *       *          +   .       '                        '  .              . +  
 ```
 <p align=center>
-  ✦ • <a href="https://ryanaque.com">website</a> • ✦
+  ✦ • <a href="https://ryanaque.com">blog / portfolio</a> • <a href="https://hajspace.com">deployments / space aquarium</a> • ✦
 </p>
