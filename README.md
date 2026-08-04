@@ -29,11 +29,13 @@
   <summary>
     88x31 button for those who want it
   </summary>
+   
   ```
   <a href="https://ryanaque.com">
     <img width="98" height="41" alt="schmayterling" src="https://github.com/user-attachments/assets/a9ec2cb1-08dd-496a-93d0-26b94bc5a6aa" />
   </a>
   </code>
   ```
+  
   
 </details>
